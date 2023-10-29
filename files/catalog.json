@@ -1,0 +1,35 @@
+[ 
+    { 
+        "source": "book", 
+        "title": "ini book 1 test", 
+        "upc": null, 
+        "subject": null, 
+        "issbn": null, 
+        "authors": "Ronggo", 
+        "dds_number": "123456" 
+    }, 
+    {
+        "source": "cd", 
+        "title": "ini cd 1 test", 
+        "upc": null, 
+        "subject": null, 
+        "artist": "Bintang" 
+    }, 
+    {
+        "source": "dvd", 
+        "title": "ini dvd 1 test", 
+        "upc": null, 
+        "subject": null, 
+        "actors": "Bintang", 
+        "director": "Ronggo", 
+        "genre": "Comedy"
+    }, 
+    {
+        "source": "magazine", 
+        "title": "ini magazine 1 test", 
+        "upc": null, 
+        "subject": null, 
+        "volume": "vol - 1", 
+        "issue": null 
+    }
+]
